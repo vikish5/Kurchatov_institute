@@ -1,0 +1,8 @@
+*.db.*
+*.dbconf
+*.dbconf.*
+*.dblocalconf
+*.dblocalconf.*
+*.mgr
+*.mgr.*
+*.prt.*
