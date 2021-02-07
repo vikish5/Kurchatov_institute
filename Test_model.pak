@@ -24,10 +24,10 @@ restartname=
 notqueryremoveforall=0
 [Files]
 Count=4
-0=Видеокадр.prt
-1=Компоненты.prt
-2=Алгоритмы.prt
-3=Мнемосхема.prt
+0=Mnemoschema.prt
+1=Algorithms.prt
+2=Components.prt
+3=Control_panel.prt
 [Active]
 0=1
 1=1
