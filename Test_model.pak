@@ -1,8 +1,8 @@
 ﻿[Form]
-Rect.L=175
-Rect.T=611
-Rect.R=773
-Rect.B=861
+Rect.L=333
+Rect.T=471
+Rect.R=931
+Rect.B=721
 ConsoleHeight=69
 WindowState=0
 ColCount=7
